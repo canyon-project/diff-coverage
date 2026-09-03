@@ -5,6 +5,5 @@ export default defineConfig({
   commit: 'chore: release v{version}',
   tag: 'v{version}',
   push: true,
-  noGitCheck: false,
-  execute: 'pnpm run typecheck && pnpm test',
+  noGitCheck: false
 })
