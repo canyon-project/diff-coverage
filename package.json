@@ -1,7 +1,7 @@
 {
   "name": "@canyonjs/diff-coverage",
   "type": "module",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Simple change statement coverage report component.",
   "author": "Author Name <author.name@mail.com>",
   "license": "MIT",
