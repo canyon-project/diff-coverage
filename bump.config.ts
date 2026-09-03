@@ -6,5 +6,5 @@ export default defineConfig({
   tag: 'v{version}',
   push: true,
   noGitCheck: false,
-  execute: 'pnpm run typecheck && pnpm test --run',
+  execute: 'pnpm run typecheck && pnpm test',
 })
