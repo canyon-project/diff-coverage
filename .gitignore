@@ -10,7 +10,7 @@ dist
 package-lock.json
 
 
-pnpm-lock.yaml
+#pnpm-lock.yaml
 
 
 .idea
